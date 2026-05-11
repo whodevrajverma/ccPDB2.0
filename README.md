@@ -63,6 +63,8 @@ ccPDB 2.0 offers several web-based utilities for structural analysis:
 
 **Prof. Gajendra P. S. Raghava** (Corresponding Author)
 
+raghava@iiitd.ac.in
+
 Department of Computational Biology, Indraprastha Institute of Information Technology (IIIT Delhi), New Delhi, India.
 
 ---
