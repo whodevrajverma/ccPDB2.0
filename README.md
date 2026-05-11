@@ -13,6 +13,8 @@ Agrawal, P., Patiyal, S., Kumar, R., Kumar, V., Singh, H., Raghav, P. K., & Ragh
 **ccPDB 2.0: an updated version of datasets created and compiled from Protein Data Bank.** *Database*, 2019, bay142.
 https://doi.org/10.1093/database/bay142
 
+This is also available on Zenodo at https://doi.org/10.5281/zenodo.20119766
+
 ---
 
 ## About the Research
