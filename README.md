@@ -1,4 +1,4 @@
-# ccPDB 2.0: Compilation and Creation of Datasets from PDB
+# ccPDB 2.0: an updated version of datasets created and compiled from Protein Data Bank
 
 **ccPDB 2.0** is an updated and significantly enhanced version of the database of datasets created and compiled from the **Protein Data Bank (PDB)**.
 This resource provides researchers with high-quality, non-redundant datasets of various protein properties (such as ligand binding, secondary structure, and metal interactions), serving as a gold standard for training and benchmarking machine learning models in structural biology.
