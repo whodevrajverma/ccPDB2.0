@@ -1,0 +1,9 @@
+grep -v "#" GDP_result.txt >test
+grep ">" test >aa
+grep "[A-Z]" test |grep -v ">" >bb
+grep "[--]" test >cc
+paste -d " " aa bb cc >correct
+grep "+" correct >new
+rm aa bb cc correct test
+
+grep -v "[--]" GDP_result.txt >GDP_chains.txt 
